@@ -1,0 +1,38 @@
+Hi,My name is Ankit Akkewar,
+                          
+              Iam  Working as devops engineer with xyz comp, 
+In my 2 + years of expe i have been working on verious devops tools like 
+    Git and Github as source code management
+    Maven for building artifac 
+    Terrafom as infrastructre as code tool
+    jenkins for continious integration and continious deployment.
+    Docker as containerisation tool
+    kubernetes as conatainer orchestration tool         
+     i have use promethus and graphana for monitoring.
+apart from that,i have worked in aws in which 
+*iam for user administration
+*ec2 server management
+*ebs,efs for centralise storage 
+*elastic load balanacer with autoscaling
+*s3 as artifactiory
+*vpc
+*rds,dynamodb for database  mangement
+*route53 as domain name system
+*cloudfront for edge location and cash server
+*sqs,sns for notification management
+
+also have good knowledge of linux & shells script.
+
+my roles and responsibilities:-
+1. provisioning infra via terraform.
+2.complete assigned task via JIRA ticket.
+3.creating,maintaining and monitoring pipeline.
+4.look after rolling update using verious deployment strategy.
+5.writting manifests for kubernetes.
+6 writing and mangeing docker file
+7.monitoring infrastructure through prometheus & graphana.
+8.check teams & slack massages and 
+
+
+
+thank you! 
